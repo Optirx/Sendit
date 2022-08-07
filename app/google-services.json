@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "857983148931",
+    "firebase_url": "https://sendit-mu-default-rtdb.firebaseio.com",
+    "project_id": "sendit-mu",
+    "storage_bucket": "sendit-mu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857983148931:android:f3e87d059556cbcdb6ccb6",
+        "android_client_info": {
+          "package_name": "com.example.sendit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857983148931-np7pmprt7q1638hfnmpsmghkf819rc3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNufT6gJ1ysF0e2VOQLjFxgAKDaAeSn2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857983148931-np7pmprt7q1638hfnmpsmghkf819rc3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
